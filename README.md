@@ -3,7 +3,7 @@
 My study notes for the Aalto Multimedia Systems course, one file per lecture.
 ## Contents
 
-- [M0 — Networking Primer](M0-networking-primer.md)
+- [M0 — Networking Primer](M0-networking-primer-notes.md)
 - [M1.1 — Digital Media Fundamentals](M1.1-digital-media-fundamentals.md)
 - [M1.2 — Media Containers, Tools, and Delivery Basics](M1.2-containers-tools-delivery.md)
 
