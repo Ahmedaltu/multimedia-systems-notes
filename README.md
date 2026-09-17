@@ -1,7 +1,6 @@
 # CS-E4265 Multimedia Systems — Notes
 
-My study notes for the Aalto CS-E4265 Multimedia Systems course, one file per lecture. Plain-language summaries, with the common exam traps marked ⚠️.
-
+My study notes for the Aalto Multimedia Systems course, one file per lecture.
 ## Contents
 
 - [M0 — Networking Primer](M0-networking-primer.md)
